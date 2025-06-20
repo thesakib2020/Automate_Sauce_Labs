@@ -41,11 +41,27 @@ Install Allure Commandline
 ```bash
 npm i allure-commandline
 ```
-Run all tests parallelly
+Run all tests parallelly from the suite
 ```bash
 npm run wdio --suite allSuites
 ```
-Run Q1 in assessment
+Run Q1 in assessment individually
 ```bash
-npm run wdio Q1
+npm run Q1
 ```
+Run Q2 in assessment individually
+```bash
+npm run Q2
+```
+Run Q3 in assessment individually
+```bash
+npm run Q3
+```
+Generate Allure Report
+```bash
+allure generate allure-results --clean
+```
+View Allure Report
+```bash
+allure open allure-report
+

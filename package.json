@@ -5,7 +5,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "wdio": "wdio run ./wdio.conf.js",
-    "Q1": "wdio run ./wdio.conf.js Q1",
+    "Q1": "wdio run ./wdio.conf.js --spec ./specs/loginError.spec.js",
+    "Q2": "wdio run ./wdio.conf.js --spec ./specs/checkout.spec.js",
+    "Q3": "wdio run ./wdio.conf.js --spec ./specs/filterObject.spec.js",
     "getReport": "allure generate allure-results --clean && allure open allure-report",
     "allSuites:": "wdio run ./wdio.conf.js --suite allSuites" 
   },

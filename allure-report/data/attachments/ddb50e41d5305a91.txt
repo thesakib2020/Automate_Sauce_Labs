@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"(//div[@class='item_pricebar'])[1]/div[1]\"}\n  (Session info: chrome=137.0.7151.104)",
+  "stacktrace": "\tGetHandleVerifier [0x0x7ff73838fe35+79173]\n\tGetHandleVerifier [0x0x7ff73838fe90+79264]\n\t(No symbol) [0x0x7ff738149e5a]\n\t(No symbol) [0x0x7ff7381a0586]\n\t(No symbol) [0x0x7ff7381a083c]\n\t(No symbol) [0x0x7ff7381f4247]\n\t(No symbol) [0x0x7ff7381c89af]\n\t(No symbol) [0x0x7ff7381f100d]\n\t(No symbol) [0x0x7ff7381c8743]\n\t(No symbol) [0x0x7ff7381914c1]\n\t(No symbol) [0x0x7ff738192253]\n\tGetHandleVerifier [0x0x7ff73865a27d+3004813]\n\tGetHandleVerifier [0x0x7ff7386546cd+2981341]\n\tGetHandleVerifier [0x0x7ff738673320+3107376]\n\tGetHandleVerifier [0x0x7ff7383aa9be+188622]\n\tGetHandleVerifier [0x0x7ff7383b224f+219487]\n\tGetHandleVerifier [0x0x7ff738398d84+115860]\n\tGetHandleVerifier [0x0x7ff738398f39+116297]\n\tGetHandleVerifier [0x0x7ff73837f4e8+11256]\n\tBaseThreadInitThunk [0x0x7ff82f33e8d7+23]\n\tRtlUserThreadStart [0x0x7ff83145c5dc+44]\n"
+}
