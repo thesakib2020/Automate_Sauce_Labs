@@ -12,7 +12,9 @@ Required latest Node version and latest Java to run allure-commandline.
 
 ## Scenarios to test: 
 -- Login
+
 -- Add Products to cart and checkout page verification
+
 -- Filter Products to checkout page verification
 
 Scope: UI Testing
