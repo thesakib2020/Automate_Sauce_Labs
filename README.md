@@ -1,6 +1,8 @@
 # SauceLabs project for automation testing
 
-Scenarios: Login, Add Products to cart and checkout page verification, Filter Products to checkout page verification
+Scenarios: 
+    - Login
+    - Add Products to cart and checkout page verification, Filter Products to checkout page verification
 
 Scope: UI Testing
 
