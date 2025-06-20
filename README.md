@@ -18,10 +18,22 @@ Required latest Node version and latest Java to run allure-commandline.
 
 Scope: UI Testing
 
-
-
 ## Assessments
+
+
 ## Clone locally
+Clone project to your machine:
 ```bash
 git clone https://github.com/thesakib2020/Automate_Sauce_Labs.git
+```
+
+Install node js and java by searching in google.
+
+Install wdio
+```bash
+npm init wdio@latest .
+```
+Install Allure Reporter
+```bash
+npm install @wdio/allure-reporter --save-dev
 ```
