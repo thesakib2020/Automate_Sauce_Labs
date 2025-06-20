@@ -17,7 +17,8 @@ Required latest Node version and latest Java to run allure-commandline.
 
 -- Filter Products to checkout page verification
 
-Scope: UI Testing
+## Scope:
+ UI Testing
 
 ## Assessment Questions:
 Q1: Try login with locked_out_user and verify the error message.
