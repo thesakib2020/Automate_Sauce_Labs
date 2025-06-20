@@ -37,3 +37,15 @@ Install Allure Reporter
 ```bash
 npm install @wdio/allure-reporter --save-dev
 ```
+Install Allure Commandline
+```bash
+npm i allure-commandline
+```
+Run all tests parallelly
+```bash
+npm run wdio --suite allSuites
+```
+Run Q1 in assessment
+```bash
+npm run wdio Q1
+```
