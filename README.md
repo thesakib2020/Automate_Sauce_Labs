@@ -1,5 +1,5 @@
 # Saucedemo project for automation testing
-SauceLabs e-commerce website UI testing using Webdriver IO
+Saucedemo e-commerce website UI testing using Webdriver IO.
 
 Project URL: https://www.saucedemo.com/
 
